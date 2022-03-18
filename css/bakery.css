@@ -110,7 +110,7 @@ color: var(--secondary)
 
 
 .main{
-	background-image: url('../images/baking1.JPG');
+	background-image: url('../images/baking1.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 585px;
@@ -973,7 +973,7 @@ font-size: 25px;
 	border:none;
 }
 .main{
-	background-image: url('../images/baking1.JPG');
+	background-image: url('../images/baking1.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 500px;
