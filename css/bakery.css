@@ -134,7 +134,7 @@ color: var(--secondary)
 }
 
 
-.main-description p, button{
+.main-description p, a{
 	font-family: var(--font2);
 }
 
@@ -142,7 +142,7 @@ color: var(--secondary)
 	color: var(--secondary);
 	font-size: 25px;
 }
-.main-description button{
+.main-description a{
 	color: var(--primary);
 	font-size: 20px;
 	margin-top: 15px;
@@ -151,11 +151,12 @@ color: var(--secondary)
 	border-radius: 4px;
 	background-color: var(--secondary);
 	border:none;
+	text-decoration: none;
 }	
 
-.main-description button:hover{
-	color: var(--primary);
-	background-color: white;
+.main-description a:hover{
+	color: var(--secondary);
+	background-color: var(--primary);
 	
 }	
 
